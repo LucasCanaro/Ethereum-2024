@@ -35,7 +35,6 @@ ABI : JSON array of function descriptions
 |---|---|
 |bool |  |
 |int, uint| |
-|fixed, ufixed|  |
 |address|  balance, transfer |
 |bytes1 ~ bytes32|    |
 |bytes, string |  |
